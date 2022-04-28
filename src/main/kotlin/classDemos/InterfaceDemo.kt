@@ -1,0 +1,4 @@
+package classDemos
+
+interface InterfaceDemo {
+}
